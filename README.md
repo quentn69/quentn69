@@ -3,7 +3,7 @@
 <p align="center"><strong>Blasma :)</strong></p>
 
 <p align="center">
-	<a >Contact Support</a> —
+	<a >German dude that loves to code</a>
 </p>
 
 <p></p>
