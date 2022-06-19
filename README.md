@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[https://discord.c99.nl/widget/theme-2/838091746843951175.png](https://discord.c99.nl/widget/theme-2/838091746843951175.png)
-
+<a href="https://github.com/blasma" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838091746843951175.png"/></a>
 <!--
 **blasma/blasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
