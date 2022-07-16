@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/addi00000"><img src="https://img.shields.io/github/followers/addi00000?style=for-the-badge"></img></a>
+<a href="https://github.com/addi00000"><img src="https://img.shields.io/github/followers/quentn69?style=for-the-badge"></img></a>
 </p>
 
 <p align="center">
